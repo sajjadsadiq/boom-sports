@@ -1,0 +1,11 @@
+.footer-icons{
+    display:flex;
+    width:40%;
+    margin:  auto;
+
+
+}
+.footer-icons p{
+    margin: 10px;
+    
+}
